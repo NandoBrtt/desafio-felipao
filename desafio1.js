@@ -1,5 +1,5 @@
-let nome = "Fernando"
-let xp = 7378
+let nome = ""
+let xp = 
 
 function nivelDoHeroi(xp){
 switch (true) {
